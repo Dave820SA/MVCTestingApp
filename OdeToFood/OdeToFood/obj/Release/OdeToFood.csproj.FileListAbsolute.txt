@@ -32,3 +32,4 @@ C:\Users\dd94223\Documents\GitHub\MVCTestingApp\OdeToFood\OdeToFood\bin\System.W
 C:\Users\dd94223\Documents\GitHub\MVCTestingApp\OdeToFood\OdeToFood\bin\System.Web.WebPages.Razor.xml
 C:\Users\dd94223\Documents\GitHub\MVCTestingApp\OdeToFood\OdeToFood\obj\Release\OdeToFood.dll
 C:\Users\dd94223\Documents\GitHub\MVCTestingApp\OdeToFood\OdeToFood\obj\Release\OdeToFood.pdb
+C:\Users\dd94223\Documents\GitHub\MVCTestingApp\OdeToFood\OdeToFood\obj\Release\OdeToFood.csprojResolveAssemblyReference.cache
