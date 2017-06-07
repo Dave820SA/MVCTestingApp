@@ -11,16 +11,19 @@ namespace OdeToFood.Controllers
     {
         public ViewResult Index()
         {
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+            throw new Exception("oops!");
+            //ViewBag.Message = string.Format("{0}: : {1} {2}", RouteData.Values["controller"],
+            //                                                    RouteData.Values["action"],
+            //                                                    RouteData.Values["id"]);
 
-            var model = new RestaurantReview()
-            {
-                Name = "Big Daddies",
-                Rating = 9
-            };
+            //var model = new RestaurantReview()
+            //{
+            //    Name = "Big Daddies",
+            //    Rating = 9
+            //};
 
 
-            return View(model);
+            //return View(model);
         }
 
         public ActionResult About()
